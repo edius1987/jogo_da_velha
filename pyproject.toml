@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "jogo-da-velha"
+version = "0.1.0"
+description = "Jogo da Velha em python com a biblioteca poetry"
+authors = ["edius1987 <ediusferreira@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flet = "^0.24.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
