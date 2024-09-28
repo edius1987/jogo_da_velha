@@ -24,4 +24,4 @@ Criamos o projeto com o `Poetry` com o comando `poetry new jogo_da_velha`, acess
 
 Logo temos que escrever o código, que pode ser feito por qualquer editor de texto ou código, eu usei o `nano`, mas use o editor que mais for confortável programar, pela integração sugerimos o Pycharm que tem uma excelente integração com o Poetry.
 
-![](/home/edius/Projetos/jogo_da_velha/jogo_da_velha/jogo_da_velha.png)
+![](/jogo_da_velha.png)
