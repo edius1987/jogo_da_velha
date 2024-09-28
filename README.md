@@ -24,4 +24,6 @@ Criamos o projeto com o `Poetry` com o comando `poetry new jogo_da_velha`, acess
 
 Logo temos que escrever o código, que pode ser feito por qualquer editor de texto ou código, eu usei o `nano`, mas use o editor que mais for confortável programar, pela integração sugerimos o Pycharm que tem uma excelente integração com o Poetry.
 
+Para rodar use `poetry run flet app.py` ou no navegador use `poetry run flet run -w app.py`. 
+
 ![](/jogo_da_velha.png)
